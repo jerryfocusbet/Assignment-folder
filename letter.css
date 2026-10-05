@@ -1,0 +1,17 @@
+h5{
+    text-align: right;
+    position: absolute;
+    top: 25px;
+    right: 60px;   
+}
+h2{
+    text-align: center;
+}
+h3{
+    position: absolute;
+    bottom: 200npx;
+    right: 60px;
+}
+p{
+    text-indent: 40px;
+}
