@@ -1,0 +1,41 @@
+body{
+    background-color: blue;
+}
+form{
+    background-color: white;
+    width: 500px;
+    margin: 100px auto auto auto;
+    padding: 30px 30px 30px 30px;
+    border-radius: 10px;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: grey;
+}
+button{
+    color: rgb(243, 233, 233);
+    border-radius: 5px;
+    border: none;
+    padding: 15px 20px 15px 20px;
+    background-color: rgb(25, 25, 128);
+    width: 100%;   
+}
+a{
+    color: blue;
+}
+label{
+    color: rgb(49, 48, 48);
+    margin-bottom: 30px;
+}
+input{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px 20px 10px 20px;
+    width: 100%;
+    box-sizing: border-box;
+    border: 0.5px groove blue;
+    border-radius: 5px;
+}

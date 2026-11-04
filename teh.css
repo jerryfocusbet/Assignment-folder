@@ -1,0 +1,33 @@
+body{
+    background-color: darkblue;
+}
+.pk{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.t{
+    text-align: center; 
+    color: white;
+}
+.r{
+    text-align: center;
+}
+.w{
+    color: blue;
+}
+.q{
+    color: white;
+}
+.o{
+    color: white;
+}
+.iconbox{
+    background-color: blue;
+    border-radius: 100%;
+    width: fit-content;
+    height: fit-content;
+    padding: 20px 20px 20px 20px;
+    margin: auto;
+}

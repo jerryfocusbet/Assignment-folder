@@ -1,0 +1,33 @@
+body{
+    background-color: aqua;
+}
+table{
+    background-color: blue;
+    border-spacing: 0.5px;
+    margin: auto;
+}
+td{
+    padding: 20px 20px 20px 20px;
+    margin: auto auto auto 50px;
+}
+.mc{
+    color: aliceblue;
+}
+.mx{
+    color: yellow;
+    background-color: rgb(72, 70, 73);
+}
+.bm{
+    background-color: rgb(112, 112, 16);
+}
+p{
+    text-align: center;
+}
+.mp{
+    background-color: darkblue;
+    text-align: center;
+}
+.bn{
+    background-color: blueviolet;
+    text-align: center;
+}
