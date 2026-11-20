@@ -4,6 +4,7 @@ form{
     padding: 1px 50px 10px 50px;
     margin: auto;
     width: 50%;
+    border-radius: 10px;
     
 }
 .parent{
@@ -36,13 +37,12 @@ a{
     padding: 5px 5px 5px 5px;
 }
 .theme{
-    padding: 10px 10px 10px 10px;
-    border-radius: 7px;
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
     background-color: darkblue;
-    outline: 10px groove black;
+    outline: 8px groove black;
     color: white;
     margin: 15px 15px 30px 15px;
-    text-align: center;
 }
 .product{
     padding: 10px 10px 10px 10px;
@@ -52,4 +52,70 @@ a{
     color: white;
     margin: 15px 40px 30px 15px;
     text-align: center;
+}
+.main{
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: black;
+    width: 100%;
+    padding: 0.1px 50px 0.1px 50px;
+    margin: 20px;
+}
+.boot{
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.hook{
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.joke{
+    color: white;
+    background-color: rgb(48, 50, 52);
+    border-radius: 7px;
+    padding: 10px 10px 0px 10px;
+    width: 30px;
+    height: 30px;
+    align-items: center;
+    text-align: center;
+}
+.para{
+    margin-left: 15px;
+    color: white;
+    background-color: rgb(48, 50, 52);
+    border-radius: 7px;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+    font-family: sans-serif;
+}
+.pet{
+    margin: 0px 0px 0px 15px;
+    background-color: aqua;
+    padding: 8px 8px 8px 8px;
+    border-radius: 10px;
+    text-align: center;
+    font-family: sans-serif;
+}
+h2{
+    color: white;
+    font-style: italic;
+}
+.icon{
+    color: white;
+}
+input{
+    border-radius: 5px;
+    border-color: white;
+    background-color: rgb(48, 50, 52);
+    padding: 0px 20px 0px 20px;
+    width: 400px;
+}
+.non{
+    width: 100px;
 }
